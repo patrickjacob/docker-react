@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This <code>code formatting</code> is awesome!!!
-          I was change on 20.04.2020   !
+          I was change on 20.04.2020!
         </p>
         <a
           className="App-link"
